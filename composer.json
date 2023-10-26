@@ -12,7 +12,7 @@
     },
     "config": {
         "allow-plugins": {
-        },
+        }
     },
     "autoload": {
         "psr-4": {
