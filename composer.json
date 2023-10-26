@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "Rafinita sale lib",
     "type": "library",
-    "license": "proprietary",
-    "minimum-stability": "dev",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "repositories": [
         {
