@@ -6,6 +6,12 @@
     "license": "proprietary",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
     "require": {
         "php": ">=8.0",
         "ext-curl": "*"
