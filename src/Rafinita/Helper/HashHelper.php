@@ -1,6 +1,6 @@
 <?php
 
-namespace Lib\Rafinita\Helper;
+namespace App\Rafinita\Helper;
 
 class HashHelper
 {

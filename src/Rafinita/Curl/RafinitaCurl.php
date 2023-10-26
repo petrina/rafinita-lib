@@ -1,8 +1,8 @@
 <?php
 
-namespace Lib\Rafinita\Curl;
+namespace App\Rafinita\Curl;
 
-use Lib\Rafinita\Requests\DTO\AbstractRequestDTO;
+use App\Rafinita\Requests\DTO\AbstractRequestDTO;
 
 class RafinitaCurl extends BaseCurl
 {

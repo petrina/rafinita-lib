@@ -1,10 +1,10 @@
 <?php
 
-namespace Lib\Rafinita\Curl;
+namespace App\Rafinita\Curl;
 
-use Lib\Rafinita\Response\Entity\ResponseBodyEntity;
-use Lib\Rafinita\Response\Entity\ResponseEntity;
-use Lib\Rafinita\Response\Entity\ResponseHeaderEntity;
+use App\Rafinita\Response\Entity\ResponseBodyEntity;
+use App\Rafinita\Response\Entity\ResponseEntity;
+use App\Rafinita\Response\Entity\ResponseHeaderEntity;
 use Exception;
 
 class BaseCurl

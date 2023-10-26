@@ -1,9 +1,9 @@
 <?php
 
-namespace Lib\Rafinita\Entity;
+namespace App\Rafinita\Entity;
 
-use Lib\Rafinita\Helper\HashHelper;
-use Lib\Rafinita\Requests\DTO\SaleRequestDTO;
+use App\Rafinita\Helper\HashHelper;
+use App\Rafinita\Requests\DTO\SaleRequestDTO;
 use Symfony\Component\Validator\Constraints\Email;
 use Symfony\Component\Validator\Constraints\ExpressionSyntax;
 use Symfony\Component\Validator\Constraints\Ip;

@@ -1,9 +1,9 @@
 <?php
 
-namespace Lib\Rafinita\Curl;
+namespace App\Rafinita\Curl;
 
-use Lib\Rafinita\Requests\DTO\SaleRequestDTO;
-use Lib\Rafinita\Response\Entity\ResponseEntity;
+use App\Rafinita\Requests\DTO\SaleRequestDTO;
+use App\Rafinita\Response\Entity\ResponseEntity;
 use Exception;
 
 class SaleRafinitaCurl extends RafinitaCurl

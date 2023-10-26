@@ -1,6 +1,6 @@
 <?php
 
-namespace Lib\Rafinita\Response\Entity;
+namespace App\Rafinita\Response\Entity;
 
 class ResponseBodyEntity
 {

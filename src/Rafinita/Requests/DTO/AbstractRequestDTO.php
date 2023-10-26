@@ -1,6 +1,6 @@
 <?php
 
-namespace Lib\Rafinita\Requests\DTO;
+namespace App\Rafinita\Requests\DTO;
 
 abstract class AbstractRequestDTO
 {
