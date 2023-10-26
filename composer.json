@@ -1,5 +1,6 @@
 {
     "name": "petrina/rafinita-lib",
+    "version": "1.0.0",
     "description": "Rafinita sale lib",
     "type": "library",
     "license": "proprietary",
