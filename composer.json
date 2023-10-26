@@ -18,11 +18,5 @@
         "psr-4": {
             "App\\": "src/"
         }
-    },
-    "extra": {
-        "symfony": {
-            "allow-contrib": false,
-            "require": "6.2.*"
-        }
     }
 }
