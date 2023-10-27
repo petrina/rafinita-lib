@@ -12,7 +12,7 @@ class HashHelper
                 strrev(
                     $email
                 ) .
-                'd0ec0beca8a3c30652746925d5380cf3' .
+                '13a4822c5907ed235f3a068c76184fc3' .
                 strrev(
                     substr($cardNumber, 0, 6) .
                     substr($cardNumber, -4)
